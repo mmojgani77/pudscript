@@ -18,24 +18,23 @@ or when you run `app` or `app --help` command it will show you all the commands 
        The format of manual.txt could be anything but to be better use the following sample format and
        after that when you type `app man [Your Script folder name]` it will show you the content of
        manual.txt file placed in that folder:
-<pre>
+>>>       
 ---- Summary ----
 
-     This script will generate the md5 hash of your parameter
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This script will generate the md5 hash of your parameter
+ 
+ \-\-\-\- Command syntax \-\-\-\-
 
----- Command syntax ----
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;app md5-make \[Write your text here\]
+ 
+ ---- Example ----
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;app md5-make "my text"
+ 
+ ---- Description ----
 
-     app md5-make [Write your text here]
-
----- Example ----
-
-     app md5-make "my text"
-
----- Description ----
-
-     No description.
-     
-</pre>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No description.
+>>>
 
 - [ ] Writing and Adding new useful Scripts
 - [ ] Improve the Structure of working
