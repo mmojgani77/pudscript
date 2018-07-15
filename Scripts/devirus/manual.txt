@@ -1,0 +1,17 @@
+---- Summary ----
+
+     A Script that eliminates the impact of the "Shortcut Virus"
+
+---- Command syntax ----
+
+     app devirus [Write your drive letter here]
+
+---- Example ----
+
+     app devirus C:
+
+---- Description ----
+
+     When your USB device get infected with "Shortcut Virus" that hides 
+     all of your files in a folder without name you can use this Script 
+     to get your data back on the root of your USB device

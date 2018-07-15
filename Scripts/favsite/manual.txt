@@ -1,0 +1,34 @@
+---- Summary ----
+
+     A Script that runs the websites stored in "sitedb.txt" text file
+
+---- Command syntax ----
+
+     app favsite (main)   //note : the main parameter is optional here
+
+---- Example ----
+
+     app favsite
+     app favsite main
+
+---- Description ----
+
+     This Script opens all the websites stored in
+     text file named "sitedb.txt" placed in the Script Folder
+     
+     There are some tricks here :
+
+	1 - you can set a website as your favorite website 
+	    by putting the character start `*` at the beginning
+	    of it and if you use parameter "main" in the front 
+            of your favsite command it will show you just your
+	    favorite website if you don't it will show you all the websites
+
+	2 - if you put the character single qoute `'` at the beginning of 
+            a website it will comment it and it will not open when you run 
+            the command even if it is your favorite website
+	    
+	//Note : The single quote character should be put on 
+		 the first of line if a website is your
+	         favorite website this character should be
+		 at the first of line before the start character.
