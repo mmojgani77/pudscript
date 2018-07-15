@@ -7,7 +7,7 @@ def main(args):
 	print("")
 	print("App Scripting Manuals")
 	print("---------------------\n")
-	print("Commands syntax : app [Script name] [Parameters seperate by space]\n")
+	print("Commands syntax : app [Script folder name] [Parameters seperated by spaces]\n")
 	print("----- List of scripts -----")
 	print("---------------------------\n")
 
