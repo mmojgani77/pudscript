@@ -1,0 +1,12 @@
+ Volume in drive I is Archive
+ Volume Serial Number is 3816-A022
+
+ Directory of I:\python apps\osite
+
+11/01/2017  10:06 PM    <DIR>          .
+11/01/2017  10:06 PM    <DIR>          ..
+11/01/2017  10:06 PM                 0 a.txt
+11/01/2017  09:30 PM                35 bat.bat
+11/01/2017  08:58 PM               338 main.py
+               3 File(s)            373 bytes
+               2 Dir(s)  54,178,893,824 bytes free

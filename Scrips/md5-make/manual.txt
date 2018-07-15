@@ -1,0 +1,15 @@
+---- Summary ----
+
+     This script will generate the md5 hash of your parameter
+
+---- Command syntax ----
+
+     app md5-make [Write your text here]
+
+---- Example ----
+
+     app md5-make "my text"
+
+---- Description ----
+
+     No description.
