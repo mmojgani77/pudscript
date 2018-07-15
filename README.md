@@ -12,7 +12,7 @@ When you run `app md5-make MyTextHere` command , the Output would be `72053983a3
 or when you run `app` or `app --help` command it will show you all the commands you can use.
 
 # Tasks to do
-- [ ] Making help (manual) for all of Scripts 
+- [ ] Complete the help (manual) of all Scripts 
 
        You just have to add manual.txt to all of Scripts folder and describes what Scripts do.
        The format of manual.txt could be anything but to be better use the following sample format and
