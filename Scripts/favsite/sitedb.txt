@@ -29,3 +29,4 @@ http://chetor.com/
 'http://phow.ir/
 'http://www.developzoom.com/
 'http://gotoclass.ir/
+*https://maktabkhooneh.org/mag/
