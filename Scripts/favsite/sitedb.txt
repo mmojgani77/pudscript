@@ -30,3 +30,5 @@ http://chetor.com/
 'http://www.developzoom.com/
 'http://gotoclass.ir/
 *https://maktabkhooneh.org/mag/
+*https://maktabkhooneh.org/
+https://memoryleaks.ir/
